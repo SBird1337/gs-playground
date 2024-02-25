@@ -1,0 +1,3 @@
+[submodule "gs_headers"]
+	path = gs_headers
+	url = https://github.com/SBird1337/gs_headers
